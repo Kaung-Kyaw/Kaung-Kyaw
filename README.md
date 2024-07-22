@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Kaung, I am  a recent Physisc MSCi graduate from the University of Nottingham. 
+I have some personal and course related projects which will be uploaded to showcase my skills! 
 <!--
 **Kaung-Kyaw/Kaung-Kyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
