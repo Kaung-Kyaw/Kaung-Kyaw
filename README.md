@@ -1,6 +1,9 @@
 ## Hi there 👋
-My name is Kaung, I am  a recent Physisc MSci graduate from the University of Nottingham. 
-I have some personal and course related projects which will be uploaded to showcase my skills! 
+My name is Kaung, I am  a recent Physics MSci graduate from the University of Nottingham. 
+I have some personal and course related projects which will be uploaded to showcase my experiences! 
+
+My 4th Year Master's project was a group project where we collaborated to "Simulate the Universe using Diffusion Models".
+My 3rd Year project involved collaborating with a partner to find regions of brain activation for stimulus response. 
 <!--
 **Kaung-Kyaw/Kaung-Kyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
