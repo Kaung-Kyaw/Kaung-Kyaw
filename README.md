@@ -2,11 +2,12 @@
 My name is Kaung, I am  a recent Physics MSci graduate from the University of Nottingham. 
 I have some personal and course related projects which will be uploaded to showcase my experiences! 
 
+### Master's Project 
 My 4th Year Master's project was a machine learning group task, where we collaborated to "Simulate the Universe using Diffusion Models".
 |![image](https://github.com/user-attachments/assets/378ea14e-5cc8-4d30-8f18-79f4da542811)|
 |:--:|
 
-
+### Bachelor's Project
 My 3rd Year project involved collaborating with a partner to find regions of brain activation for stimulus response. 
 
 |![image](https://github.com/user-attachments/assets/8833d70d-a3d9-46a5-bf15-14830ef624ad)|
