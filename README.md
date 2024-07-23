@@ -3,7 +3,7 @@ My name is Kaung, I am  a recent Physics MSci graduate from the University of No
 I have some personal and course related projects which will be uploaded to showcase my experiences! 
 
 My 4th Year Master's project was a machine learning group task, where we collaborated to "Simulate the Universe using Diffusion Models".
-|![image](https://github.com/user-attachments/assets/887f07d0-c713-4aa2-b854-70a15687c072)|
+|![image](https://github.com/user-attachments/assets/378ea14e-5cc8-4d30-8f18-79f4da542811)|
 |:--:|
 
 
