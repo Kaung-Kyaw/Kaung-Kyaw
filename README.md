@@ -9,7 +9,7 @@ My 4th Year Master's project was a machine learning group task, where we collabo
 
 My 3rd Year project involved collaborating with a partner to find regions of brain activation for stimulus response. 
 
-|![image](https://github.com/user-attachments/assets/c3d8a513-d4e4-4880-a636-4421a0638ed7)|
+|![image](https://github.com/user-attachments/assets/b13dad19-0dbb-43b1-9e6e-60c81eabf708)|
 |:--:|
 
 <!--
