@@ -7,6 +7,9 @@ My 4th Year Master's project was a machine learning group task, where we collabo
 |![image](https://github.com/user-attachments/assets/378ea14e-5cc8-4d30-8f18-79f4da542811)|
 |:--:|
 
+|![image](https://github.com/user-attachments/assets/1b621383-f17c-43dd-92bd-17b4c2a4e3b9)|
+|:--:|
+
 ### Bachelor's Project
 My 3rd Year project involved collaborating with a partner to find regions of brain activation for stimulus response with the Standard HRF. 
 
